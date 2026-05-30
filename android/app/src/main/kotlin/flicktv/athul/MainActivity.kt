@@ -1,4 +1,4 @@
-package com.example.flicktv_athul
+package flicktv.athul
 
 import io.flutter.embedding.android.FlutterActivity
 
